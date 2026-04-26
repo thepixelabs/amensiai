@@ -6,7 +6,7 @@
 
 [![CI](https://github.com/thepixelabs/amnesiai/actions/workflows/ci.yml/badge.svg)](https://github.com/thepixelabs/amnesiai/actions)
 [![Go 1.24](https://img.shields.io/badge/go-1.24-00ADD8?logo=go)](https://go.dev)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License: PolyForm Shield](https://img.shields.io/badge/license-PolyForm%20Shield%201.0.0-blue.svg)](LICENSE)
 
 </div>
 
@@ -256,6 +256,10 @@ amnesiai completion zsh|bash|fish
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+This project is fair-code distributed under the **PolyForm Shield 1.0.0 License**.
+
+You may use, modify, and distribute this software for personal and internal business operations. Commercial use is permitted, provided it does not directly compete with the primary product or services offered by the repository owner.
+
+Please refer to the [`LICENSE`](LICENSE) file for the complete terms and conditions.
 
 [amnesiai.pixelabs.net](https://amnesiai.pixelabs.net) · [thepixelabs/amnesiai](https://github.com/thepixelabs/amnesiai)
